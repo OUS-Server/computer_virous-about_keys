@@ -29,3 +29,4 @@ The sixth file: Panda burning variety, decompress the password is threatbook
 Note: You need to add your own extension name - exe, and be careful, just like virtual machine+disconnection
 The seventh file: Panda Burns Incense (original version)+source code and analysis. See the file name for the decompression password
 Note: Windows NT core is required, Windows Vista is supported at most, Windows XP is recommended, disconnection+virtual machine
+English version description: The author is a Chinese junior high school student who uses translation software. There may be some mistakes. Please forgive me, foreign friends
