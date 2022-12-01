@@ -14,3 +14,18 @@ Language=Chinese
 说明:需要自己添加拓展名-exe，小心行事，虚拟机+断网一样
 第7个文件:熊猫烧香原版+源代码和分析，解压密码见文件名中
 说明:需要WindowsNT核心，最高支持Windows vista，推荐Windows XP，断网+虚拟机
+Language=English
+The first file: blue screen simulator, no password
+Description: Nothing to say
+The second file: menz normal version, no password
+Description: Original Rainbow Cat
+The third file: MENZ clean version, decompress the password is threatbook
+Note: The harmful part of the system has been cleaned up, and only part has been retained, which has become a joke program
+The fourth file: wannacry, decompression password: threatbook or kanxue
+Note: Be careful and remember disconnection+virtual machine
+The fifth file: incaseformat, decompress the password is threatbook
+Note: You need to modify the system time. You can search the time by yourself. You also need to disconnect the network
+The sixth file: Panda burning variety, decompress the password is threatbook
+Note: You need to add your own extension name - exe, and be careful, just like virtual machine+disconnection
+The seventh file: Panda Burns Incense (original version)+source code and analysis. See the file name for the decompression password
+Note: Windows NT core is required, Windows Vista is supported at most, Windows XP is recommended, disconnection+virtual machine
