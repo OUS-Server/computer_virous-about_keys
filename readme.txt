@@ -13,7 +13,7 @@ Language=Chinese
 第6个文件:熊猫烧香变种，解压密码threatbook
 说明:需要自己添加拓展名-exe，小心行事，虚拟机+断网一样
 第7个文件:熊猫烧香原版+源代码和分析，解压密码见文件名中
-说明:需要WindowsNT核心，最高支持Windows vista，推荐Windows XP，断网+虚拟机
+说明:需要WindowsNT核心，Windows XP一下，断网+虚拟机
 Language=English
 The first file: blue screen simulator, no password
 Description: Nothing to say
