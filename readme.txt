@@ -1,5 +1,5 @@
 Hello
-Language=Chinese
+Language:Chinese(语言:中文)
 第1个文件:蓝屏模拟器，无密码
 说明:没啥好说的
 第2个文件:menz普通版，无密码
@@ -13,8 +13,9 @@ Language=Chinese
 第6个文件:熊猫烧香变种，解压密码threatbook
 说明:需要自己添加拓展名-exe，小心行事，虚拟机+断网一样
 第7个文件:熊猫烧香原版+源代码和分析，解压密码见文件名中
-说明:需要WindowsNT核心，Windows XP一下，断网+虚拟机
-Language=English
+说明:需要WindowsNT核心，Windows vista以下均可(vista不确定，但是XP以下是肯定没毛病)，断网+虚拟机
+请帮我将以上语言翻译为英文于下方，下方的英文还未更新（主要我不会）翻译完成后可投稿于45w_mr5ol4oom@dingtalk.com
+Language:English(语言:英文)
 The first file: blue screen simulator, no password
 Description: Nothing to say
 The second file: menz normal version, no password
