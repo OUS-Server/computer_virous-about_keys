@@ -14,6 +14,7 @@ Language:Chinese(语言:中文)
 说明:需要自己添加拓展名-exe，小心行事，虚拟机+断网一样
 第7个文件:熊猫烧香原版+源代码和分析，解压密码见文件名中
 说明:需要WindowsNT核心，Windows vista以下均可(vista不确定，但是XP以下是肯定没毛病)，断网+虚拟机
+欢迎fork
 请帮我将以上语言翻译为英文于下方，下方的英文还未更新（主要我不会）翻译完成后可投稿于45w_mr5ol4oom@dingtalk.com
 Language:English(语言:英文)
 The first file: blue screen simulator, no password
@@ -31,3 +32,4 @@ Note: You need to add your own extension name - exe, and be careful, just like v
 The seventh file: Panda Burns Incense (original version)+source code and analysis. See the file name for the decompression password
 Note: Windows NT core is required, Windows Vista is supported at most, Windows XP is recommended, disconnection+virtual machine
 English version description: The author is a Chinese junior high school student who uses translation software. There may be some mistakes. Please forgive me, foreign friends
+Welcome Fork
