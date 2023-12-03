@@ -6,7 +6,7 @@ Language:Chinese(语言:中文)
 说明:原汁原味的彩虹猫
 第3个文件:MENZ清洁版，解压密码threatbook
 说明:清理掉了对系统有害的部分，只保留了部分，成为了玩笑程序
-第4个文件:wannacry，解压密码:threatbook或kanxue
+第4个文件:wannacry，解压密码:threatbook或kanxue(自己试，年代久远我也忘了)
 说明:一定小心行事，千万千万记住断网+虚拟机
 第5个文件:incaseformat，解压密码threatbook
 说明:需要修改系统时间，时间改什么自己搜索就好了，也是要断网
